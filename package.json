@@ -1,0 +1,15 @@
+{
+  "name": "codevember-2018",
+  "version": "1.0.0",
+  "description": "Codevember 2018",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint */**.js"
+  },
+  "keywords": [
+    "codevember"
+  ],
+  "author": "nimalan.m",
+  "license": "MIT"
+}
